@@ -1,0 +1,5 @@
+{
+  "batch_size": 32,
+  "input_size": 167,
+  "hidden_size": 256
+}
